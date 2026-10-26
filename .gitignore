@@ -1,0 +1,29 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Данные: исходный файл большой, остальное создаётся скриптами
+data/*
+!data/.gitkeep
+
+# Результаты, которые можно пересоздать и которые тяжёлые
+results/model.joblib
+results/test_predictions_fifa21_to_23.csv
+
+# Секреты и настройки
+.env
+.streamlit/secrets.toml
+
+# Редакторы и система
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
