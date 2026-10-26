@@ -379,8 +379,6 @@ streamlit run app.py          # интерактивное приложение
 
 ---
 
-## Данные, лицензия и авторы
+## Данные
 
-- **Данные:** [FIFA 23 complete player dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset), автор Stefano Leone, лицензия CC0. Исходные данные собраны с sofifa.com.
-- **Лицензия кода:** [укажите, например MIT].
-- **Авторы:** [укажите имя и контакты].
+- **Данные:** [FIFA 23 complete player dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset)
